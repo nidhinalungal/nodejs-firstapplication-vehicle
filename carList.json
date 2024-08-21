@@ -1,0 +1,18 @@
+[
+  {
+    "_id": 10,
+    "_regNo": "AB12CD1234",
+    "_brand": "SuzukiUpdated",
+    "_model": "SwiftUpdate",
+    "_year": "2022",
+    "_seatCapacity": 10
+  },
+  {
+    "_id": 11,
+    "_regNo": "ABCD",
+    "_brand": "Suzuki2",
+    "_model": "Swift2",
+    "_year": "2018",
+    "_seatCapacity": 5
+  }
+]
